@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>Retro clocks for your new tab.</strong><br>
-  Split-flap cards, Nixie tubes, seven-segment, yellow dots, Lego, and origami.
+  <strong>A Chrome new tab clock with a sense of occasion.</strong><br>
+  Split-flap cards and glowing Nixie tubes, plus Lego, yellow dots, segments, and origami.
 </p>
 
 <p align="center">
@@ -15,18 +15,42 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-16c060" alt="Apache 2.0"></a>
 </p>
 
-RetroClocks replaces Chrome’s new tab with a retro clock. Pick a face: split-flap cards, glowing Nixie tubes, a seven-segment display, yellow dots, Lego bricks, or origami. Hours and minutes, optional seconds, and the date. Click the clock and the digits scramble, then land back on the time.
+<p align="center">
+  <img src="store/promo-marquee-1400x560.png" alt="RetroClocks: a split-flap board beside glowing Nixie tubes" width="920">
+</p>
+
+RetroClocks replaces Chrome’s new tab with a retro clock. The two faces it leads with are a split-flap board and Nixie tubes. The same clock can also show seven-segment digits, yellow dots, Lego bricks, or origami.
+
+Hours and minutes, optional seconds, and the date. Click the clock and the digits scramble, then land back on the time.
+
+## Split-flap and Nixie
+
+| Split-flap | Nixie tubes |
+| --- | --- |
+| ![Split-flap cards on the Chrome new tab, Thursday 29 October](store/screenshot-1-flap.png) | ![Nixie tubes on the Chrome new tab, Thursday 29 October](store/screenshot-2-nixie.png) |
+
+**Split-flap.** Four mechanical cards, a gold colon, and a flap sound you can turn on. Each card that flips plays the next strike, alternating two short recordings in [`sounds/flap/`](sounds/flap/). Sound stays off until you turn it on.
+
+**Nixie tubes.** The same time, glowing inside glass. White numbers stay neon orange. Faint wires of the other digits stay visible behind the lit numeral.
+
+## The other faces
+
+| Lego | Yellow dots | Seven-segment |
+| --- | --- | --- |
+| ![Lego bricks reading 10:10](store/screenshot-3-lego.png) | ![Yellow dot matrix reading 10:10](store/screenshot-4-dots.png) | ![Seven-segment digits on the new tab](store/screenshot-5-segments.png) |
+
+Origami is the sixth face: digits folded from blue paper. Store shots for the five faces above are in [`store/`](store/).
+
+## Settings
 
 Settings fill the browser window, with a live preview beside the tabs.
 
 | Tab | What you set |
 | --- | --- |
-| Clock | Face, size, and flap sound when the face is split-flap |
+| Clock | Face and size. Flap sound appears when the face is split-flap |
 | Time & date | 12-hour or 24-hour, seconds, colon blink, timezone, and the date |
 | Look | Background, number, and colon colours. A colour for each digit on seven-segment, origami, and Lego |
 | About | Author, export, and import of a settings file |
-
-Flap sound plays two short recordings, one then the other, each time a card flips. The clips are in [`sounds/flap/`](sounds/flap/). Sound stays off until you turn it on.
 
 Chrome lets one extension own the new tab. If another new-tab clock is installed, choose which one you want under `chrome://extensions`.
 
@@ -52,8 +76,6 @@ Install from the Chrome Web Store when the listing is live. This repository is t
 
 **Homepage:** [github.com/markusvankempen/chrome-retro-clocks](https://github.com/markusvankempen/chrome-retro-clocks)  
 **Author:** [github.com/markusvankempen](https://github.com/markusvankempen) · [markusvankempen.github.io](https://markusvankempen.github.io/)
-
-Screenshots from the clock are in [`store/`](store/).
 
 ---
 
