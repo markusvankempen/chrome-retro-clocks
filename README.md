@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>A split-flap clock for your new tab.</strong><br>
-  Four cards, a colon, the date, and a board that fills the window.
+  <strong>Retro clocks for your new tab.</strong><br>
+  Split-flap cards, Nixie tubes, seven-segment, yellow dots, Lego, and origami.
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-16c060" alt="Apache 2.0"></a>
 </p>
 
-RetroClocks replaces Chrome’s new tab with a mechanical flap board. Hours and minutes, optional seconds, and the date. Click the cards and the digits roll.
+RetroClocks replaces Chrome’s new tab with a retro clock. Pick a face: split-flap cards, glowing Nixie tubes, a seven-segment display, yellow dots, Lego bricks, or origami. Hours and minutes, optional seconds, and the date. Click the clock and the digits scramble, then land back on the time.
 
 Settings fill the browser window, with a live preview beside the tabs.
 
 | Tab | What you set |
 | --- | --- |
-| Clock | Size, 12-hour or 24-hour time, seconds, colon blink, timezone |
-| Date | Show or hide, above or below the cards, alignment, format |
-| Look | Background, number, colon, and date colours. Flap sound |
+| Clock | Face, size, and flap sound when the face is split-flap |
+| Time & date | 12-hour or 24-hour, seconds, colon blink, timezone, and the date |
+| Look | Background, number, and colon colours. A colour for each digit on seven-segment, origami, and Lego |
 | About | Author, export, and import of a settings file |
 
 Flap sound plays two short recordings, one then the other, each time a card flips. The clips are in [`sounds/flap/`](sounds/flap/). Sound stays off until you turn it on.
@@ -46,7 +46,7 @@ https://github.com/markusvankempen/chrome-retro-clocks/blob/main/PRIVACY.md
 
 ## Get the extension
 
-Current version: **1.0.0** — see [CHANGELOG.md](CHANGELOG.md).
+Current version: **1.1.0** — see [CHANGELOG.md](CHANGELOG.md). The store package is attached to the [1.1.0 release](https://github.com/markusvankempen/chrome-retro-clocks/releases/tag/v1.1.0).
 
 Install from the Chrome Web Store when the listing is live. This repository is the homepage, privacy policy, licence, icons, and store assets.
 

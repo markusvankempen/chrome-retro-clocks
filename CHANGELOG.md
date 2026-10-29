@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 — 2026-10-29
+
+Retro clocks for the new tab, not only a split-flap board. Split-flap cards, Nixie tubes, a seven-segment display, yellow dots, Lego bricks, and origami share one clock.
+
+- Each digit on seven-segment, origami, and Lego can have its own colour
+- Time and the date share one settings tab
+- Store screenshots for Lego and yellow dots. Promo tiles show the split-flap board beside the Nixie tubes
+
 ## 1.0.0 — 2026-10-28
 
 Split-flap board for the Chrome new tab.
