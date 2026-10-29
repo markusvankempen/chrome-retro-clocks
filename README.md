@@ -1,7 +1,7 @@
-# Split-Flap Clock
+# RetroClocks
 
 <p align="center">
-  <img src="icons/icon128.png" alt="Split-Flap Clock" width="96" height="96">
+  <img src="icons/icon128.png" alt="RetroClocks" width="96" height="96">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-16c060" alt="Apache 2.0"></a>
 </p>
 
-Split-Flap Clock replaces Chrome’s new tab with a mechanical flap board. Hours and minutes, optional seconds, and the date. Click the cards and the digits roll.
+RetroClocks replaces Chrome’s new tab with a mechanical flap board. Hours and minutes, optional seconds, and the date. Click the cards and the digits roll.
 
 Settings fill the browser window, with a live preview beside the tabs.
 
@@ -40,7 +40,7 @@ Full text: [PRIVACY.md](PRIVACY.md) · [privacy.html](privacy.html)
 
 Store privacy policy URL:
 
-https://github.com/markusvankempen/Chrome-Split-Flap-Clock/blob/main/PRIVACY.md
+https://github.com/markusvankempen/chrome-retro-clocks/blob/main/PRIVACY.md
 
 ---
 
@@ -50,7 +50,7 @@ Current version: **1.0.0** — see [CHANGELOG.md](CHANGELOG.md).
 
 Install from the Chrome Web Store when the listing is live. This repository is the homepage, privacy policy, licence, icons, and store assets.
 
-**Homepage:** [github.com/markusvankempen/Chrome-Split-Flap-Clock](https://github.com/markusvankempen/Chrome-Split-Flap-Clock)  
+**Homepage:** [github.com/markusvankempen/chrome-retro-clocks](https://github.com/markusvankempen/chrome-retro-clocks)  
 **Author:** [github.com/markusvankempen](https://github.com/markusvankempen) · [markusvankempen.github.io](https://markusvankempen.github.io/)
 
 Screenshots from the clock are in [`store/`](store/).

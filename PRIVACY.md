@@ -1,10 +1,10 @@
-# Privacy policy — Split-Flap Clock
+# Privacy policy — RetroClocks
 
 **Last updated:** 28 October 2026
 
-This policy applies to the **Split-Flap Clock** Chrome extension by Markus van Kempen.
+This policy applies to the **RetroClocks** Chrome extension by Markus van Kempen.
 
-Split-Flap Clock shows the current time as a split-flap board on the new tab page. It does not require an account and it does not talk to a developer-operated server.
+RetroClocks shows the current time as a split-flap board on the new tab page. It does not require an account and it does not talk to a developer-operated server.
 
 ## What we collect
 
@@ -16,7 +16,7 @@ The extension does not send telemetry, analytics, crash reports, or advertising 
 
 The only permission requested is **`storage`**.
 
-Split-Flap Clock saves your clock preferences locally (and in [Chrome Sync](https://support.google.com/chrome/answer/185277) if you have sync turned on):
+RetroClocks saves your clock preferences locally (and in [Chrome Sync](https://support.google.com/chrome/answer/185277) if you have sync turned on):
 
 - 12-hour or 24-hour time
 - flap size
